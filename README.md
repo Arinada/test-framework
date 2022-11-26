@@ -6,3 +6,5 @@
 **Design Patterns**
 * Page Object
 * Chain of Invocations
+
+Please run test Classes one by one.
