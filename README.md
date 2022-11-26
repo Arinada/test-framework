@@ -7,4 +7,4 @@
 * Page Object
 * Chain of Invocations
 
-Please run test Classes one by one.
+**Please run test Classes one by one.**
